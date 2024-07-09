@@ -38,7 +38,7 @@ datafusion = { workspace = true, default-features = true }
 itertools = { workspace = true }
 object_store = { workspace = true }
 prost = "0.12"
-prost-types = "0.12"
+prost-types = "0.13"
 substrait = "0.31.0"
 
 [dev-dependencies]
