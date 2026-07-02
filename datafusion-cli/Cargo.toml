@@ -59,6 +59,6 @@ url = "2.2"
 
 [dev-dependencies]
 assert_cmd = "2.0"
-ctor = "0.2.0"
+ctor = "1.0.7"
 predicates = "3.0"
 rstest = "0.17"
