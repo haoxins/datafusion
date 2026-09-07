@@ -136,7 +136,7 @@ tokio-util = { version = "0.7.4", features = ["io"], optional = true }
 url = { workspace = true }
 uuid = { version = "1.7", features = ["v4"] }
 xz2 = { version = "0.1", optional = true, features = ["static"] }
-zstd = { version = "0.13", optional = true, default-features = false }
+zstd = { version = "0.14", optional = true, default-features = false }
 
 [dev-dependencies]
 arrow-buffer = { workspace = true }
