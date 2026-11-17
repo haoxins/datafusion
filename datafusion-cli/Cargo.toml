@@ -50,7 +50,7 @@ env_logger = "0.9"
 futures = "0.3"
 mimalloc = { version = "0.1", default-features = false }
 object_store = { version = "0.10.1", features = ["aws", "gcp", "http"] }
-parking_lot = { version = "0.12" }
+parking_lot = { version = "0.13" }
 parquet = { version = "52.2.0", default-features = false }
 regex = "1.8"
 rustyline = "11.0"
